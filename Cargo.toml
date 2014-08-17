@@ -4,7 +4,7 @@ name = "convertible"
 version = "0.0.0"
 authors = ["Jonathan Reem <jonathan.reem@gmail.com>"]
 
-[[lib]]
+[lib]
 
 name = "convertible"
 path = "src/lib.rs"
